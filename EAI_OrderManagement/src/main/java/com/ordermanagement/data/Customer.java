@@ -1,9 +1,0 @@
-package com.ordermanagement.data;
-
-public class Customer {
-
-	public Customer() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
